@@ -1,0 +1,22 @@
+{
+  "name": "hello-word",
+  "version": "1.0.0",
+  "description": "my first repository (i'm tryng, ok?)\r This is a \"branch?\"? I don't got this very well .-.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PassocaGit/hello-word.git"
+  },
+  "author": "Rafael Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PassocaGit/hello-word/issues"
+  },
+  "homepage": "https://github.com/PassocaGit/hello-word#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
